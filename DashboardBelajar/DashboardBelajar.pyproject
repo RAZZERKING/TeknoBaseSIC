@@ -1,0 +1,24 @@
+{
+    "files": [
+      "content/main.qml",
+      "content/ScreenWelcome.qml",
+      "content/ScreenMain.qml",
+      "content/StatusBar.qml",
+      "content/ScreenMainClock.qml",
+      "content/ScreenMainJadwal.qml",
+      "content/ScreenMainOptions.qml",
+      "content/ScreenSettingsMain.qml",
+      "content/ScreenSettingsAwal.qml",
+      "content/ScreenSettingsTampilan.qml",
+      "ui/MainClock.qml",
+      "ui/MainDate.qml",
+      "ui/MainToDoList.qml",
+      "ui/qmldir",
+      "jsonlistmodel/JSONListModel.qml",
+      "jsonlistmodel/jsonpath.js",
+      "moment.js",
+      "timeHelper.js",
+      "button_led_control_firdijs.py",
+      "main.py"
+    ]
+}

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/drawing.png</file>
+        <file>data/laut.png</file>
+        <file>data/john-towner-JgOeRuGD_Y4-unsplash.jpg</file>
+    </qresource>
+</RCC>

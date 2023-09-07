@@ -1,0 +1,4 @@
+module UIControl
+
+MainClock 1.0 MainClock.qml
+MainDate 1.0 MainDate.qml
